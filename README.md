@@ -1,36 +1,42 @@
-# Komesh Bathula - Systems Designer Portfolio
+# 🌌 Premium Developer Portolio
 
-A modern, high-performance personal portfolio website built with pure HTML, CSS, and JavaScript.
-**Philosophy**: Modern Professional. Gravity-defying animations. Zero dependencies.
+A high-end, visual-first portfolio showcasing full-stack engineering expertise with an immersive, interactive experience.
 
-## Project Structure
-- `index.html`: Main content file. Contains the structure and text.
-- `style.css`: All visual styling, animations, and the dark theme.
-- `script.js`: Logic for animations, custom cursor, and the navbar.
+![Portfolio Preview](screenshot.png)
 
-## How to Run
-**No installation required.**
+## ✨ Core Features
 
-1.  Simply double-click `index.html` to open it in your browser.
-2.  Or drag `index.html` into any web browser window.
+- 🌓 **Dynamic Theme System**: Switch between Light, Dark, and System modes with persistent local storage.
+- 🎨 **Full-Spectrum Color Customizer**: Real-time accent and ambient background transformation with 12+ premium themes.
+- 🚀 **Dynamic Coding Stats**: Live problem-solved counts fetched via unofficial LeetCode and GeeksforGeeks APIs.
+- 📱 **3-Column Responsive Header**: Perfectly centered navigation with minimalist, icon-only mobile-ready controls.
+- 🏗️ **Interactive Visuals**: Custom-built horizontal project grid, vertical journey timeline, and animated activity flows.
+- 💎 **Premium Aesthetics**: Glassmorphism, subtle high-fidelity animations, and intersection observer-based reveal effects.
 
-## Customization Guide
+## 🛠️ Tech Stack
 
-### Editing Content
-Open `index.html` in any text editor (VS Code, Notepad, TextEdit).
-- **Name/Title**: Look for `<h1>` tags in the Hero section.
-- **Education Stats**: Locate the `Education` section comments.
-- **Projects**: Edit the `div` blocks under `Featured Projects`.
+- **Core**: HTML5, Vanilla CSS3, Modern JavaScript (ES6+)
+- **Icons**: Phosphor Icons
+- **Fonts**: Space Grotesk (Google Fonts)
+- **Deployment**: Optimized for GitHub Pages / Vercel
 
-### Editing Styles
-Open `style.css`.
-- **Colors**: Change the `--accent-primary` variable at the top to switch from Indigo to another color.
-- **Spacing**: Adjust `--container-width` or section padding.
+## 🚀 Getting Started
 
-### Animation Logic
-Open `script.js` to tweak:
-- **Cursor**: Adjust the `speed` variable in the `animateCursor` function.
-- **Scroll**: Tweak `threshold` in `IntersectionObserver` to change when elements fade in.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/komeshbathula/MyPortfolio.git
+   ```
+2. **Open the project**:
+   Simply open `index.html` in any modern web browser.
 
-## Credits
-Built with [Phosphor Icons](https://phosphoricons.com/) and [Google Fonts (Inter)](https://fonts.google.com/specimen/Inter).
+3. **Customize your identity**:
+   - Update your profile picture in `my_pic.png`.
+   - Modify the `index.html` content with your own projects and experience.
+   - Update your coding platform links in the script and HTML.
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+Crafted with ❤️ by [Komesh Bathula](https://github.com/komeshbathula)
